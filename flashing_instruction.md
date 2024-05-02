@@ -18,8 +18,6 @@ Flashing instructions:
 
 8.Then run command `adb sideload` <rom.zip> (After 47%, it will come one popup for installing additional package -- click No)
 
-For vannila builds --> If you want gapps reboot recovery then sideload Gapps
-
-9.Factory reset (optional)
+9.Factory reset (must)
 
 10.Reboot system now.
