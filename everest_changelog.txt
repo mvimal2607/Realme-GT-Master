@@ -1,3 +1,16 @@
+#Everest version 1.2 changelog
+Build Date: 18-05-2024
+
+- Synced latest Everest Source 
+- Enabled battery cycle count from battery information
+- Added OP-12 Camera
+- Switched to Everest launcher(Launcher 3)
+- Fixed charging info on lockscreen
+
+Note: 
+- Added Updater (You can update from OTA or Local update from next update)
+
+
 EverestOS v1.1
 Build Date: 16-04-2024
 
